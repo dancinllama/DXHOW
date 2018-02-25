@@ -5,6 +5,6 @@
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "42.0"
-  "sfdxLoginUrl" : "https://login.salesforce.com"
+  "sourceApiVersion": "42.0",
+  "sfdxLoginUrl": "https://login.salesforce.com"
 }
