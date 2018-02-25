@@ -8,7 +8,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>richTextValue</name>
-                <value>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Hello, MN &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#000000;">&lt;b>&lt;span style="font-size:28px;">SalesForce &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Devs!&lt;/span>&lt;/b>&lt;/span></value>
+                <value>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Hello, MN &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#000000;">&lt;b>&lt;span style="font-size:28px;">Salesforce &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Devs!&lt;/span>&lt;/b>&lt;/span></value>
             </componentInstanceProperties>
             <componentName>flexipage:richText</componentName>
         </componentInstances>
