@@ -8,7 +8,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>richTextValue</name>
-                <value>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Hello, MN &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#000000;">&lt;b>&lt;span style="font-size:28px;">Salesforce &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Devs!&lt;/span>&lt;/b>&lt;/span></value>
+                <value>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Hello, MN &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#000000;">&lt;b>&lt;span style="font-size:28px;">SalesForce &lt;/span>&lt;/b>&lt;/span>&lt;span style="color:#696969;">&lt;b>&lt;span style="font-size:28px;">Devs!&lt;/span>&lt;/b>&lt;/span></value>
             </componentInstanceProperties>
             <componentName>flexipage:richText</componentName>
         </componentInstances>
@@ -41,6 +41,25 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>entityName</name>
+                <value>Opportunity</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>filterName</name>
+                <value>Default_Opportunity_Pipeline</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>hideActionBar</name>
+                <value>false</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>pageSize</name>
+                <value>3</value>
+            </componentInstanceProperties>
+            <componentName>flexipage:filterListCard</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>bottomRight</name>
         <type>Region</type>
