@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/drew/Desktop/DXHOW/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "1c4f2a98f5aeed78c9ff60205eb0577a469763c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "8db0c01f640acc7ba1b555b8d1a44b12fe1de7dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3196,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "b359c96a4696d3ad0557d7d982af246b53463757",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "92be35cd59c739e6f378bec2e91e61d0923b5852",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1520020523321,
+            "changeTime": 1520020523321,
+            "contentHash": "7ed225d667488231c622b3850e18c75d44208bce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/drew/Desktop/DXHOW",
+        {
+            "state": "n",
+            "sourcePath": "/Users/drew/Desktop/DXHOW",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1520020594104,
+            "changeTime": 1520020594104,
+            "contentHash": "db1c176cdc13957a000cdada7fc20ec0f9db3e46",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
