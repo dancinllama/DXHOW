@@ -1,0 +1,17 @@
+# This is a sample build configuration for Other.
+# Check our guides at https://confluence.atlassian.com/x/5Q4SMw for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: dancinllama/dockerdx
+
+#Based loosely off of Kevin O'Hara's example at https://github.com/kevinohara80/salesforcedx-circleci-demo
+pipelines:
+  default:
+    - step:
+        script:
+          - mkdir keys
+          - echo $HUB_SERVER_KEY_HEX | xxd -r -ps >> keys/hub.key
+          - sfdx force:auth:jwt:grant --clientid $HUB_CONSUMER_KEY --jwtkeyfile keys/hub.key --username $HUB_SFDC_USER --setdefaultdevhubusername -a DevHub
+          - sfdx force:source:convert -r force-app -d deploy
+          - sfdx force:mdapi:deploy -d deploy -u DevHub
